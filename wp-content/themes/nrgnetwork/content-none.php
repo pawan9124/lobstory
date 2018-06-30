@@ -1,0 +1,1 @@
+<?php print '<div class="text-center"><p>'.esc_html__('Nothing found, please search again with an another query.', 'nrgnetwork').'</p></div>';

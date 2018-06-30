@@ -1,0 +1,2886 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: NRGNetwork\n"
+"POT-Creation-Date: 2016-12-16 13:33+0200\n"
+"PO-Revision-Date: 2016-12-16 13:33+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:9
+msgid "Sorry! the page not found"
+msgstr ""
+
+#: 404.php:10
+msgid "The Link You Folowed Probably Broken, or the page has been removed."
+msgstr ""
+
+#: 404.php:11
+msgid "Return to home"
+msgstr ""
+
+#: buddypress.php:37 content-single.php:6 page.php:47 single-no-sidebar.php:30
+#: single-sidebar.php:38
+msgid "Pages:"
+msgstr ""
+
+#: buddypress.php:41 content-single.php:10 includes/customizer.php:397
+#: page.php:51 single-no-sidebar.php:34 single-sidebar.php:42
+msgid "Page"
+msgstr ""
+
+#: comments.php:19
+msgid "Pingback:"
+msgstr ""
+
+#: comments.php:29
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: comments.php:44
+#, php-format
+msgctxt "comments title"
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:82
+msgid "Your name"
+msgstr ""
+
+#: comments.php:86
+msgid "Your email"
+msgstr ""
+
+#: comments.php:90 single-portfolio.php:150 tpl-author.php:83
+#: woo-single.php:121
+msgid "Your text"
+msgstr ""
+
+#: content-none.php:1
+msgid "Nothing found, please search again with an another query."
+msgstr ""
+
+#: content.php:34
+msgid "Read more"
+msgstr ""
+
+#: footer.php:114 header.php:61
+msgid "Log in"
+msgstr ""
+
+#: footer.php:117 footer.php:150
+msgid "Username"
+msgstr ""
+
+#: footer.php:118 footer.php:152 tpl-author-edit.php:129
+msgid "Password"
+msgstr ""
+
+#: footer.php:122
+msgid "Stay signed in"
+msgstr ""
+
+#: footer.php:124
+msgid "Forgot password?"
+msgstr ""
+
+#: footer.php:125
+msgid "Sign up now"
+msgstr ""
+
+#: footer.php:127
+msgid "SIGN IN"
+msgstr ""
+
+#: footer.php:142
+msgid "Register"
+msgstr ""
+
+#: footer.php:148 footer.php:238 tpl-author-edit.php:65
+msgid "First Name"
+msgstr ""
+
+#: footer.php:149 footer.php:239 tpl-author-edit.php:71
+msgid "Last Name"
+msgstr ""
+
+#: footer.php:151 footer.php:253
+msgid "Email"
+msgstr ""
+
+#: footer.php:156 footer.php:243 tpl-author-edit.php:89
+msgid "Country"
+msgstr ""
+
+#: footer.php:167
+msgid "Date of birth"
+msgstr ""
+
+#: footer.php:170
+msgid "Month"
+msgstr ""
+
+#: footer.php:171
+msgid "January"
+msgstr ""
+
+#: footer.php:172
+msgid "February"
+msgstr ""
+
+#: footer.php:173
+msgid "March"
+msgstr ""
+
+#: footer.php:174
+msgid "April"
+msgstr ""
+
+#: footer.php:175
+msgid "May"
+msgstr ""
+
+#: footer.php:176
+msgid "June"
+msgstr ""
+
+#: footer.php:177
+msgid "July"
+msgstr ""
+
+#: footer.php:178
+msgid "August"
+msgstr ""
+
+#: footer.php:179
+msgid "September"
+msgstr ""
+
+#: footer.php:180
+msgid "October"
+msgstr ""
+
+#: footer.php:181
+msgid "November"
+msgstr ""
+
+#: footer.php:182
+msgid "December"
+msgstr ""
+
+#: footer.php:187
+msgid "Day"
+msgstr ""
+
+#: footer.php:197
+msgid "Year"
+msgstr ""
+
+#: footer.php:213
+msgid "Send me notifications"
+msgstr ""
+
+#: footer.php:217
+msgid "SIGN UP"
+msgstr ""
+
+#: footer.php:233
+msgid "Send message"
+msgstr ""
+
+#: footer.php:254 tpl-messages.php:106 tpl-messages.php:115
+msgid "Message"
+msgstr ""
+
+#: footer.php:255
+msgid "SEND"
+msgstr ""
+
+#: footer.php:266
+msgid "New Collection"
+msgstr ""
+
+#: footer.php:267
+msgid "Add"
+msgstr ""
+
+#: footer.php:270
+msgid "Loading Collection..."
+msgstr ""
+
+#: footer.php:279
+msgid "New section"
+msgstr ""
+
+#: footer.php:287 footer.php:288 tpl-author-edit.php:239
+msgid "Section Title"
+msgstr ""
+
+#: footer.php:293 includes/vc-elements/caption.php:37
+#: includes/vc-elements/contact-details.php:77
+#: includes/vc-elements/counter.php:53 includes/vc-elements/service.php:84
+#: tpl-author-edit.php:218 tpl-author-edit.php:245
+msgid "Description"
+msgstr ""
+
+#: footer.php:294 tpl-author-edit.php:219
+msgid "Something about you"
+msgstr ""
+
+#: footer.php:306
+msgid "clear all filters"
+msgstr ""
+
+#: framework/classes/class.meta.post.php:43
+msgid "Delete image"
+msgstr ""
+
+#: framework/classes/class.meta.post.php:43 tpl-messages.php:56
+msgid "Delete"
+msgstr ""
+
+#: framework/classes/class.meta.post.php:51
+msgid "Add post gallery images"
+msgstr ""
+
+#: framework/classes/class.meta.post.php:58
+msgid "Post Gallery"
+msgstr ""
+
+#: framework/classes/class.render.meta.fields.php:110
+msgid "Choose page..."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:334
+#: includes/plugins.php:83
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:335
+#: includes/plugins.php:84
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:337
+#: includes/plugins.php:85
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:340
+#: includes/plugins.php:86
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:343
+#: includes/plugins.php:87
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:349
+#: includes/plugins.php:88
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:355
+#: includes/plugins.php:93
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:367
+#: includes/plugins.php:90
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:373
+#: includes/plugins.php:91
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:378
+#: includes/plugins.php:95
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:388
+#: includes/plugins.php:96
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:392
+#: includes/plugins.php:97
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:393
+#: framework/classes/class.tgm.plugin.activation.php:920
+#: framework/classes/class.tgm.plugin.activation.php:2626
+#: framework/classes/class.tgm.plugin.activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:394
+#: framework/classes/class.tgm.plugin.activation.php:3252
+#: includes/plugins.php:98
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:395
+#: framework/classes/class.tgm.plugin.activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1027
+#: framework/classes/class.tgm.plugin.activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1214
+#: framework/classes/class.tgm.plugin.activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2481
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2647
+#: includes/vc-elements/stat.php:29
+msgid "Status"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3602
+#: framework/classes/class.tgm.plugin.activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3602
+#: framework/classes/class.tgm.plugin.activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:34
+#: framework/classes/class.wp.customize.controls.php:68
+msgid "Remove"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:71
+msgid "Repeat"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:72
+msgid "Repeat-X"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:73
+msgid "Repeat-Y"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:74
+msgid "No Repeat"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:75 tpl-folio-add.php:41
+msgid "Cover"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:76
+msgid "Contain"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:79
+msgid "Top Left"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:80
+msgid "Top Center"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:81
+msgid "Top Right"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:82
+msgid "Center Left"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:83
+msgid "Center Center"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:84
+msgid "Center Right"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:85
+msgid "Bottom Left"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:86
+msgid "Bottom Center"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:87
+msgid "Bottom Right"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:90
+msgid "Scroll"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:91
+msgid "Fixed"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:209
+msgid "Ultra Light"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:210
+msgid "Book"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:211
+msgid "Regular"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:212
+msgid "Bold"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:213
+msgid "Ultra Bold"
+msgstr ""
+
+#: framework/classes/class.wp.customize.php:179
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/parsers.php:42
+#: framework/classes/lib/wp.importer/parsers.php:72
+#: framework/classes/lib/wp.importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/parsers.php:84
+#: framework/classes/lib/wp.importer/parsers.php:89
+#: framework/classes/lib/wp.importer/parsers.php:279
+#: framework/classes/lib/wp.importer/parsers.php:463
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:136
+#: framework/classes/lib/wp.importer/wp.importer.php:145
+#: framework/classes/lib/wp.importer/wp.importer.php:196
+#: framework/classes/lib/wp.importer/wp.importer.php:200
+#: framework/classes/lib/wp.importer/wp.importer.php:209
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:137
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:180
+msgid "All done."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:180
+msgid "Have fun!"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:181
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:201
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:217
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:242
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:268
+msgid "Assign Authors"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:269
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:271
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:281
+msgid "Import Attachments"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:284
+msgid "Download and import file attachments"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:288
+msgid "Submit"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:301
+msgid "Import author:"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:312
+msgid "or create new user with login name:"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:315
+msgid "as a new user:"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:323
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:325
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:326
+msgid "- Select -"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:376
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:427
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:467
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:513
+#: framework/classes/lib/wp.importer/wp.importer.php:654
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:539
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:561
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:620
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:785
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:792
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:855
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:868
+msgid "Invalid file type"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:912
+msgid "Remote server did not respond"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:918
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:925
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:930
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:936
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:1034
+msgid "Import WordPress"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:1041
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:1056
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:1057
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: framework/functions/functions.breadcrumb.php:79
+msgid "Error 404: Page not found"
+msgstr ""
+
+#: framework/functions/functions.breadcrumb.php:80
+msgid "Archives for"
+msgstr ""
+
+#: framework/functions/functions.breadcrumb.php:81 functions.php:237
+#: tpl-user-active.php:41
+msgid "Home"
+msgstr ""
+
+#: framework/functions/functions.breadcrumb.php:82
+msgid "You searched for"
+msgstr ""
+
+#: framework/functions/functions.for.theme.php:90
+msgid "Import Demo"
+msgstr ""
+
+#: functions.php:8
+msgid "Post Sidebar Area"
+msgstr ""
+
+#: functions.php:9
+msgid "Page Sidebar Area"
+msgstr ""
+
+#: functions.php:10
+msgid "Portfolio Sidebar Area"
+msgstr ""
+
+#: functions.php:11
+msgid "Activity Page Sidebar"
+msgstr ""
+
+#: functions.php:56
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:57
+msgid "Sub Footer Menu"
+msgstr ""
+
+#: functions.php:135
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: functions.php:151
+msgid "Footer Column"
+msgstr ""
+
+#: functions.php:153
+msgid "Add widgets here to appear in your footer column"
+msgstr ""
+
+#: functions.php:204
+msgid "You are not allowed to access this part of the site"
+msgstr ""
+
+#: includes/ExtendVCRow.php:49
+msgid "Overlay"
+msgstr ""
+
+#: includes/ExtendVCRow.php:52
+msgid "No"
+msgstr ""
+
+#: includes/ExtendVCRow.php:53
+msgid "Yes"
+msgstr ""
+
+#: includes/ExtendVCRow.php:59
+msgid "Overlay Color"
+msgstr ""
+
+#: includes/ExtendVCRow.php:67
+msgid "Overlay Opacity"
+msgstr ""
+
+#: includes/ExtendVCRow.php:76
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: includes/ExtendVCRow.php:79 includes/ExtendVCRow.php:90
+msgid "None"
+msgstr ""
+
+#: includes/ExtendVCRow.php:80 includes/vc-elements/caption.php:45
+msgid "Left"
+msgstr ""
+
+#: includes/ExtendVCRow.php:81 includes/vc-elements/caption.php:46
+msgid "Center"
+msgstr ""
+
+#: includes/ExtendVCRow.php:82 includes/vc-elements/caption.php:47
+msgid "Right"
+msgstr ""
+
+#: includes/ExtendVCRow.php:87
+msgid "Vertical Alignment"
+msgstr ""
+
+#: includes/ExtendVCRow.php:91
+msgid "Top"
+msgstr ""
+
+#: includes/ExtendVCRow.php:92
+msgid "Middle"
+msgstr ""
+
+#: includes/ExtendVCRow.php:93
+msgid "Bottom"
+msgstr ""
+
+#: includes/community.php:177
+msgid "Author Profile"
+msgstr ""
+
+#: includes/community.php:179
+msgid "Edit Profile"
+msgstr ""
+
+#: includes/community.php:181
+msgid "Author Collections"
+msgstr ""
+
+#: includes/community.php:183
+msgid "Edit Portfolio"
+msgstr ""
+
+#: includes/community.php:185 tpl-author-header.php:109 tpl-statistic.php:22
+msgid "Statistics"
+msgstr ""
+
+#: includes/community.php:187 tpl-author-header.php:110
+msgid "Messages"
+msgstr ""
+
+#: includes/community.php:189 tpl-user-active.php:9
+msgid "User Activation"
+msgstr ""
+
+#: includes/community.php:679
+msgid "Not found authors."
+msgstr ""
+
+#: includes/community.php:703
+msgid "Not found projects."
+msgstr ""
+
+#: includes/community.php:789 single-portfolio.php:122 woo-single.php:93
+msgid "AUTHOR"
+msgstr ""
+
+#: includes/community.php:793 includes/community.php:795
+#: includes/community.php:799 single-portfolio.php:126 single-portfolio.php:128
+#: single-portfolio.php:132 tpl-author.php:49 tpl-author.php:51
+#: woo-single.php:97 woo-single.php:99 woo-single.php:103
+msgid "FOLLOW"
+msgstr ""
+
+#: includes/community.php:793 includes/community.php:795
+#: single-portfolio.php:126 single-portfolio.php:128 tpl-author.php:49
+#: tpl-author.php:51 woo-single.php:97 woo-single.php:99
+msgid "FOLLOWING"
+msgstr ""
+
+#: includes/community.php:988
+msgid "User already exists"
+msgstr ""
+
+#: includes/community.php:1011 tpl-messages.php:25
+msgid "=Recived your message="
+msgstr ""
+
+#: includes/community.php:1016
+msgid "There was an error sending that message. Please try again."
+msgstr ""
+
+#: includes/community.php:1019
+msgid "Buddypress not installed. Please install buddypress and try again."
+msgstr ""
+
+#: includes/community.php:1022
+msgid "You are not logged in. Please log in and try again ..."
+msgstr ""
+
+#: includes/community.php:1038
+msgid "You have a message from"
+msgstr ""
+
+#: includes/community.php:1046
+msgid "Please check your fields"
+msgstr ""
+
+#: includes/community.php:1330
+msgid "LOADING..."
+msgstr ""
+
+#: includes/community.php:1331
+msgid "LIKE PROJECT"
+msgstr ""
+
+#: includes/community.php:1332
+msgid "YOU LIKED PROJECT"
+msgstr ""
+
+#: includes/community.php:1753
+msgid "Add Work"
+msgstr ""
+
+#: includes/community_extra.php:18
+#, php-format
+msgid "%1$s started following you on %2$s"
+msgstr ""
+
+#: includes/community_extra.php:24
+#, php-format
+msgid ""
+"%1$s sent you a new message:\n"
+"\n"
+"\t\t\tSubject: %2$s\n"
+"\n"
+"\t\t\t\"%3$s\"\n"
+"\t\t\t"
+msgstr ""
+
+#: includes/community_extra.php:52 tpl-folio-add.php:58
+msgid "Portfolio Title"
+msgstr ""
+
+#: includes/community_extra.php:53 includes/vc-elements/blog-posts.php:170
+msgid "Categories"
+msgstr ""
+
+#: includes/community_extra.php:54 tpl-page-title.php:64
+msgid "Date"
+msgstr ""
+
+#: includes/community_extra.php:71
+msgid "<strong>ERROR</strong>: User not activated. Please check your email."
+msgstr ""
+
+#: includes/customizer.php:15
+msgid "Colors"
+msgstr ""
+
+#: includes/customizer.php:21
+msgid "Brand Color"
+msgstr ""
+
+#: includes/customizer.php:27
+msgid "Header Background Color"
+msgstr ""
+
+#: includes/customizer.php:33
+msgid "Menu Color"
+msgstr ""
+
+#: includes/customizer.php:39
+msgid "Footer Background Color"
+msgstr ""
+
+#: includes/customizer.php:45
+msgid "Loader Background Color"
+msgstr ""
+
+#: includes/customizer.php:55
+msgid "Font & Typography"
+msgstr ""
+
+#: includes/customizer.php:61
+msgid "Text Font"
+msgstr ""
+
+#: includes/customizer.php:63 includes/customizer.php:77
+msgid "Default value delegates \"Hevletica Neue\"."
+msgstr ""
+
+#: includes/customizer.php:68
+msgid "Title & Heading"
+msgstr ""
+
+#: includes/customizer.php:70
+msgid "Default value delegates \"Conv_helveticaneuecyr-bold\"."
+msgstr ""
+
+#: includes/customizer.php:75
+msgid "Menu Font"
+msgstr ""
+
+#: includes/customizer.php:86
+msgid "Brand Logo"
+msgstr ""
+
+#: includes/customizer.php:92
+msgid "Logo Image"
+msgstr ""
+
+#: includes/customizer.php:97
+msgid "Logo Width"
+msgstr ""
+
+#: includes/customizer.php:104
+msgid "Login Page Logo"
+msgstr ""
+
+#: includes/customizer.php:105
+msgid "Up to 274x95px"
+msgstr ""
+
+#: includes/customizer.php:110
+msgid "Disable loader image?"
+msgstr ""
+
+#: includes/customizer.php:117
+msgid "Loader Logo"
+msgstr ""
+
+#: includes/customizer.php:122
+msgid "Loader Logo Width"
+msgstr ""
+
+#: includes/customizer.php:133
+msgid "Page Title"
+msgstr ""
+
+#: includes/customizer.php:137
+msgid "Background Image"
+msgstr ""
+
+#: includes/customizer.php:148
+msgid "Rewrite URL Customize"
+msgstr ""
+
+#: includes/customizer.php:152
+msgid "Use username on user profile url"
+msgstr ""
+
+#: includes/customizer.php:158
+msgid "Author Profile:"
+msgstr ""
+
+#: includes/customizer.php:161
+msgid "netauth/&lt;username_or_id&gt;"
+msgstr ""
+
+#: includes/customizer.php:165
+msgid "Profile Edit:"
+msgstr ""
+
+#: includes/customizer.php:168
+msgid "netauth-edit/&lt;username_or_id&gt;"
+msgstr ""
+
+#: includes/customizer.php:172
+msgid "Author Collection:"
+msgstr ""
+
+#: includes/customizer.php:175
+msgid "netcollect/&lt;collection_id&gt;"
+msgstr ""
+
+#: includes/customizer.php:179
+msgid "Portfolio Edit:"
+msgstr ""
+
+#: includes/customizer.php:182
+msgid "netfolio-edit/&lt;portfolio_id&gt;"
+msgstr ""
+
+#: includes/customizer.php:186
+msgid "Author Statistics:"
+msgstr ""
+
+#: includes/customizer.php:189
+msgid "netauth-stats/"
+msgstr ""
+
+#: includes/customizer.php:193
+msgid "Private Message:"
+msgstr ""
+
+#: includes/customizer.php:196
+msgid "netauth-msgs/"
+msgstr ""
+
+#: includes/customizer.php:205
+msgid "Footer"
+msgstr ""
+
+#: includes/customizer.php:209
+msgid "Enable Footer"
+msgstr ""
+
+#: includes/customizer.php:215
+msgid "Footer Style"
+msgstr ""
+
+#: includes/customizer.php:222
+msgid "Footer Text Color"
+msgstr ""
+
+#: includes/customizer.php:228
+msgid "Enable Sub Footer"
+msgstr ""
+
+#: includes/customizer.php:234
+msgid "CopyRight Content"
+msgstr ""
+
+#: includes/customizer.php:235
+msgid ""
+"<span class=\"copy\">&copy; 2016. All rights reserved. <span class=\"white"
+"\"><a href=\"http://themeforest.net/user/nrgthemes/\" target=\"_blank\"> "
+"NRGNETWORK</a></span></span><span class=\"created\">Made with love by "
+"<span class=\"white\"><a href=\"http://themeforest.net/user/nrgthemes/\" "
+"target=\"_blank\">NRGThemes</a></span></span>"
+msgstr ""
+
+#: includes/customizer.php:245
+msgid "Post Types"
+msgstr ""
+
+#: includes/customizer.php:246
+msgid ""
+"You can customize here mostly post type options including singular pages "
+"options."
+msgstr ""
+
+#: includes/customizer.php:251
+msgid "Community"
+msgstr ""
+
+#: includes/customizer.php:255
+msgid "Community Post Type"
+msgstr ""
+
+#: includes/customizer.php:259 includes/customizer.php:370
+#: includes/widgets/popular_posts_widget.php:99
+#: includes/widgets/post_slider_widget.php:113
+#: includes/widgets/recent_works_widget.php:94
+msgid "Post"
+msgstr ""
+
+#: includes/customizer.php:260 includes/customizer.php:417
+#: includes/customizer.php:422 includes/vc-elements/portfolio.php:97
+#: includes/widgets/popular_posts_widget.php:100
+#: includes/widgets/post_slider_widget.php:114
+#: includes/widgets/recent_works_widget.php:95
+msgid "Portfolio"
+msgstr ""
+
+#: includes/customizer.php:261
+msgid "Product of Woocommerce"
+msgstr ""
+
+#: includes/customizer.php:266
+msgid "Frontend Publish Status"
+msgstr ""
+
+#: includes/customizer.php:270 tpl-folio-add.php:192
+msgid "Publish"
+msgstr ""
+
+#: includes/customizer.php:271
+msgid "Pending"
+msgstr ""
+
+#: includes/customizer.php:272
+msgid "Draft"
+msgstr ""
+
+#: includes/customizer.php:277
+msgid "User registration (activation)"
+msgstr ""
+
+#: includes/customizer.php:281
+msgid "No activation"
+msgstr ""
+
+#: includes/customizer.php:282
+msgid "Email activation"
+msgstr ""
+
+#: includes/customizer.php:288
+msgid "Add Work Button"
+msgstr ""
+
+#: includes/customizer.php:293
+msgid "Button Text:"
+msgstr ""
+
+#: includes/customizer.php:299
+msgid "Hide when not logged in"
+msgstr ""
+
+#: includes/customizer.php:306
+msgid "Meta Fields Title"
+msgstr ""
+
+#: includes/customizer.php:311
+msgid "Meta field-1 label:"
+msgstr ""
+
+#: includes/customizer.php:312
+msgid "Brand/Company"
+msgstr ""
+
+#: includes/customizer.php:317
+msgid "Meta field-2 label:"
+msgstr ""
+
+#: includes/customizer.php:318
+msgid "Tools Used"
+msgstr ""
+
+#: includes/customizer.php:323
+msgid "Meta field-3 label:"
+msgstr ""
+
+#: includes/customizer.php:324 tpl-folio-add.php:249 tpl-folio-add.php:256
+msgid "Color"
+msgstr ""
+
+#: includes/customizer.php:329
+msgid "Meta field-4 label:"
+msgstr ""
+
+#: includes/customizer.php:330
+msgid "Copyright"
+msgstr ""
+
+#: includes/customizer.php:336
+msgid "Meta Fields Icons"
+msgstr ""
+
+#: includes/customizer.php:338
+msgid ""
+"Our theme is compatible with FontAwesome font icon library. You should "
+"choose proper icon for your custom field ifon <a href=\"https://fortawesome."
+"github.io/Font-Awesome/cheatsheet/\" target=\"_blank\">from here</a>."
+msgstr ""
+
+#: includes/customizer.php:342
+msgid "Meta field-1 icon:"
+msgstr ""
+
+#: includes/customizer.php:348
+msgid "Meta field-2 icon:"
+msgstr ""
+
+#: includes/customizer.php:354
+msgid "Meta field-3 icon:"
+msgstr ""
+
+#: includes/customizer.php:360
+msgid "Meta field-4 icon:"
+msgstr ""
+
+#: includes/customizer.php:374
+msgid "Post Comment"
+msgstr ""
+
+#: includes/customizer.php:380
+msgid "Related posts"
+msgstr ""
+
+#: includes/customizer.php:386
+msgid "Post sidebar"
+msgstr ""
+
+#: includes/customizer.php:389
+msgid "Your post will show without sidebar when you turn this option Off."
+msgstr ""
+
+#: includes/customizer.php:401
+msgid "Page Comment"
+msgstr ""
+
+#: includes/customizer.php:407 includes/customizer.php:475
+msgid "Next/Prev links"
+msgstr ""
+
+#: includes/customizer.php:421
+msgid "Portfolio Label"
+msgstr ""
+
+#: includes/customizer.php:427
+msgid "Portfolio Slug"
+msgstr ""
+
+#: includes/customizer.php:433
+msgid "Layout"
+msgstr ""
+
+#: includes/customizer.php:437
+msgid "No sidebar"
+msgstr ""
+
+#: includes/customizer.php:438
+msgid "Left sidebar"
+msgstr ""
+
+#: includes/customizer.php:439
+msgid "Right sidebar"
+msgstr ""
+
+#: includes/customizer.php:444
+msgid "Excerpt show"
+msgstr ""
+
+#: includes/customizer.php:450
+msgid "Excerpt custom length"
+msgstr ""
+
+#: includes/customizer.php:453
+msgid ""
+"Type number value that for exceprt words. 0 delegates default excerpt of "
+"posts."
+msgstr ""
+
+#: includes/customizer.php:458
+msgid "Single Post Options"
+msgstr ""
+
+#: includes/customizer.php:463 includes/template-tags.php:249
+#: single-no-sidebar.php:91
+msgid "Related Posts"
+msgstr ""
+
+#: includes/customizer.php:469
+msgid "Comment"
+msgstr ""
+
+#: includes/customizer.php:481
+msgid "Portfolio Main Page"
+msgstr ""
+
+#: includes/customizer.php:484
+msgid "Choose your page:"
+msgstr ""
+
+#: includes/customizer.php:494
+msgid "Extras"
+msgstr ""
+
+#: includes/customizer.php:495
+msgid "Export Import and Custom CSS."
+msgstr ""
+
+#: includes/customizer.php:501
+msgid "Export/Import"
+msgstr ""
+
+#: includes/customizer.php:506
+msgid "Export Data"
+msgstr ""
+
+#: includes/customizer.php:507
+msgid "Copy to Customizer Data"
+msgstr ""
+
+#: includes/customizer.php:513
+msgid "Import Data"
+msgstr ""
+
+#: includes/customizer.php:514
+msgid "Import Customizer Exported Data"
+msgstr ""
+
+#: includes/customizer.php:525
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/customizer.php:530
+msgid "Custom CSS (general)"
+msgstr ""
+
+#: includes/customizer.php:536
+msgid "Tablet CSS"
+msgstr ""
+
+#: includes/customizer.php:539
+msgid "Screen width between 768px and 991px."
+msgstr ""
+
+#: includes/customizer.php:543
+msgid "Wide Phone CSS"
+msgstr ""
+
+#: includes/customizer.php:546
+msgid "Screen width between 481px and 767px. Ex: iPhone landscape."
+msgstr ""
+
+#: includes/customizer.php:550
+msgid "Phone CSS"
+msgstr ""
+
+#: includes/customizer.php:553
+msgid "Screen width up to 480px. Ex: iPhone portrait."
+msgstr ""
+
+#: includes/customizer.php:562
+msgid "Sign Up page details"
+msgstr ""
+
+#: includes/customizer.php:563
+msgid ""
+"Terms of use and Privicy options text. You should add your custom links to "
+"the anchor tags."
+msgstr ""
+
+#: includes/customizer.php:567
+msgid "Terms of use meta text"
+msgstr ""
+
+#: includes/customizer.php:568
+msgid ""
+"I have read and agree to the <a class=\"be-popup-terms\" href=\"#!\">Terms "
+"of Use</a> and <a class=\"be-popup-terms\" href=\"#!\">Privacy Policy</a>."
+msgstr ""
+
+#: includes/meta.page.php:16
+msgid "Page Options"
+msgstr ""
+
+#: includes/meta.page.php:22
+msgid "Title Section Show"
+msgstr ""
+
+#: includes/meta.page.php:28
+msgid "Title Description"
+msgstr ""
+
+#: includes/meta.page.php:35
+msgid "(Optional) Title Description after loggedin"
+msgstr ""
+
+#: includes/meta.page.php:42
+msgid "Title Background Image"
+msgstr ""
+
+#: includes/meta.page.php:44
+msgid ""
+"If you want to show your background area beautiful, this option exactly you "
+"need."
+msgstr ""
+
+#: includes/meta.page.php:50
+msgid "Page Layout"
+msgstr ""
+
+#: includes/meta.page.php:57
+msgid "Select Page Layout (Fullwidth | Right Sidebar | Left Sidebar)"
+msgstr ""
+
+#: includes/meta.page.php:62
+msgid "Portfolio Options"
+msgstr ""
+
+#: includes/meta.page.php:68 single-portfolio.php:161 woo-single.php:132
+msgid "About Project"
+msgstr ""
+
+#: includes/meta.page.php:77
+msgid "Featured Options"
+msgstr ""
+
+#: includes/meta.page.php:83
+msgid "Featured Item"
+msgstr ""
+
+#: includes/plugins.php:89
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins.php:92
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins.php:94
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins.php:99
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/template-tags.php:114
+msgid "prev page"
+msgstr ""
+
+#: includes/template-tags.php:115
+msgid "next page"
+msgstr ""
+
+#: includes/template-tags.php:154
+msgid "Next post"
+msgstr ""
+
+#: includes/template-tags.php:176
+msgid "Previous post"
+msgstr ""
+
+#: includes/template-tags.php:242
+msgid "Related Projects"
+msgstr ""
+
+#: includes/template-tags.php:387 tpl-page-title.php:24
+msgid "Shop"
+msgstr ""
+
+#: includes/template-tags.php:389 tpl-page-title.php:26
+msgid "Shop Details"
+msgstr ""
+
+#: includes/template-tags.php:394 tpl-page-title.php:31
+#, php-format
+msgid "Category: <span>%s</span>"
+msgstr ""
+
+#: includes/template-tags.php:402
+msgid "Our Blog"
+msgstr ""
+
+#: includes/template-tags.php:405 page-activity-p.php:75 page-activity.php:80
+#: page-activity.php:83 tpl-author.php:205 tpl-page-title.php:42
+#: woo-shop.php:58 woo-shop.php:62
+msgid "Projects"
+msgstr ""
+
+#: includes/template-tags.php:407 tpl-page-title.php:44
+msgid "Blog"
+msgstr ""
+
+#: includes/template-tags.php:410 tpl-page-title.php:47
+msgid "404 Page"
+msgstr ""
+
+#: includes/template-tags.php:497
+msgid "Comment navigation"
+msgstr ""
+
+#: includes/template-tags.php:500
+msgid "Older Comments"
+msgstr ""
+
+#: includes/template-tags.php:504
+msgid "Newer Comments"
+msgstr ""
+
+#: includes/vc-elements/blog-posts.php:64
+#: includes/vc-elements/blog-posts.php:102 woo-single.php:186
+msgid "by"
+msgstr ""
+
+#: includes/vc-elements/blog-posts.php:69
+#: includes/vc-elements/blog-posts.php:97
+#: includes/widgets/post_slider_widget.php:42
+msgid ", "
+msgstr ""
+
+#: includes/vc-elements/blog-posts.php:72
+msgid "Read More"
+msgstr ""
+
+#: includes/vc-elements/blog-posts.php:143
+msgid "Blog Posts"
+msgstr ""
+
+#: includes/vc-elements/blog-posts.php:144
+msgid "Only post type: post"
+msgstr ""
+
+#: includes/vc-elements/blog-posts.php:148 includes/vc-elements/caption.php:24
+#: includes/vc-elements/contact-details.php:32
+#: includes/vc-elements/counter.php:33 includes/vc-elements/google-maps.php:29
+#: includes/vc-elements/portfolio.php:102
+#: includes/vc-elements/service-container.php:28
+#: includes/vc-elements/service.php:39 includes/vc-elements/stat.php:33
+#: includes/vc-elements/team.php:45
+#: includes/vc-elements/testimonial-container.php:39
+#: includes/vc-elements/testimonial.php:31
+msgid "NRGNetwork"
+msgstr ""
+
+#: includes/vc-elements/blog-posts.php:153
+msgid "Blog Style"
+msgstr ""
+
+#: includes/vc-elements/blog-posts.php:164
+#: includes/vc-elements/portfolio.php:107
+msgid "Posts Count"
+msgstr ""
+
+#: includes/vc-elements/blog-posts.php:171
+msgid ""
+"Specify category Id or leave blank to display items from all categories."
+msgstr ""
+
+#: includes/vc-elements/blog-posts.php:177
+msgid "Show Categories?"
+msgstr ""
+
+#: includes/vc-elements/blog-posts.php:187
+#: includes/vc-elements/portfolio.php:113
+msgid "Show Pagination?"
+msgstr ""
+
+#: includes/vc-elements/blog-posts.php:197
+#: includes/vc-elements/contact-details.php:84
+#: includes/vc-elements/counter.php:71 includes/vc-elements/portfolio.php:140
+#: includes/vc-elements/service-container.php:33
+#: includes/vc-elements/stat.php:85 includes/vc-elements/team.php:106
+#: includes/vc-elements/testimonial-container.php:56
+#: includes/vc-elements/testimonial.php:63
+msgid "Extra Class"
+msgstr ""
+
+#: includes/vc-elements/blog-posts.php:199
+#: includes/vc-elements/contact-details.php:86
+#: includes/vc-elements/counter.php:73 includes/vc-elements/portfolio.php:142
+#: includes/vc-elements/service-container.php:35
+#: includes/vc-elements/stat.php:87 includes/vc-elements/team.php:108
+#: includes/vc-elements/testimonial-container.php:58
+#: includes/vc-elements/testimonial.php:65
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: includes/vc-elements/caption.php:19
+msgid "Heading"
+msgstr ""
+
+#: includes/vc-elements/caption.php:30
+#: includes/vc-elements/contact-details.php:70
+#: includes/vc-elements/counter.php:46 includes/vc-elements/service.php:77
+#: includes/vc-elements/stat.php:78
+msgid "Title"
+msgstr ""
+
+#: includes/vc-elements/caption.php:42
+msgid "Text Align"
+msgstr ""
+
+#: includes/vc-elements/caption.php:53
+msgid "Margin Bottom"
+msgstr ""
+
+#: includes/vc-elements/contact-details.php:27
+msgid "Contact detail"
+msgstr ""
+
+#: includes/vc-elements/contact-details.php:28
+msgid "your location info"
+msgstr ""
+
+#: includes/vc-elements/contact-details.php:38
+#: includes/vc-elements/service.php:45 includes/vc-elements/stat.php:39
+msgid "Icon Type"
+msgstr ""
+
+#: includes/vc-elements/contact-details.php:48
+#: includes/vc-elements/service.php:55 includes/vc-elements/stat.php:49
+#: includes/vc-elements/team.php:64 includes/vc-elements/testimonial.php:37
+msgid "Image Image"
+msgstr ""
+
+#: includes/vc-elements/contact-details.php:56
+#: includes/vc-elements/service.php:63 includes/vc-elements/stat.php:57
+msgid "Icon"
+msgstr ""
+
+#: includes/vc-elements/counter.php:29
+msgid "Counter"
+msgstr ""
+
+#: includes/vc-elements/counter.php:30
+msgid "Animated Nubmers"
+msgstr ""
+
+#: includes/vc-elements/counter.php:39 includes/vc-elements/stat.php:71
+msgid "Number"
+msgstr ""
+
+#: includes/vc-elements/counter.php:59 includes/vc-elements/service.php:90
+msgid "Button Text"
+msgstr ""
+
+#: includes/vc-elements/counter.php:65 includes/vc-elements/service.php:96
+msgid "Button Link"
+msgstr ""
+
+#: includes/vc-elements/google-maps.php:24
+msgid "Google Map"
+msgstr ""
+
+#: includes/vc-elements/google-maps.php:25
+msgid "Google Maps Latitude, Longitude"
+msgstr ""
+
+#: includes/vc-elements/google-maps.php:35
+msgid "Latitude"
+msgstr ""
+
+#: includes/vc-elements/google-maps.php:41
+msgid "Longitude"
+msgstr ""
+
+#: includes/vc-elements/google-maps.php:47
+msgid "Hue Color"
+msgstr ""
+
+#: includes/vc-elements/google-maps.php:53
+msgid "Saturation"
+msgstr ""
+
+#: includes/vc-elements/google-maps.php:60
+msgid "Zoom"
+msgstr ""
+
+#: includes/vc-elements/google-maps.php:67
+msgid "Height"
+msgstr ""
+
+#: includes/vc-elements/google-maps.php:73
+msgid "Marker Image"
+msgstr ""
+
+#: includes/vc-elements/portfolio.php:87 page-activity-p.php:202
+#: page-activity.php:216 tpl-author.php:282 tpl-author.php:336 woo-shop.php:197
+msgid "Load more ..."
+msgstr ""
+
+#: includes/vc-elements/portfolio.php:98
+msgid "Portfolio and Projects"
+msgstr ""
+
+#: includes/vc-elements/portfolio.php:123
+msgid "Show Excerpt?"
+msgstr ""
+
+#: includes/vc-elements/portfolio.php:133
+msgid "Custom Excerpt Count"
+msgstr ""
+
+#: includes/vc-elements/service-container.php:20
+msgid "Service Carousel"
+msgstr ""
+
+#: includes/vc-elements/service-container.php:21
+msgid "Service Container"
+msgstr ""
+
+#: includes/vc-elements/service.php:34
+msgid "Service"
+msgstr ""
+
+#: includes/vc-elements/stat.php:30
+msgid "Statistic Nubmers"
+msgstr ""
+
+#: includes/vc-elements/team.php:41
+msgid "Team member"
+msgstr ""
+
+#: includes/vc-elements/team.php:51 includes/vc-elements/testimonial.php:44
+msgid "Name"
+msgstr ""
+
+#: includes/vc-elements/team.php:58 includes/vc-elements/testimonial.php:51
+msgid "Position"
+msgstr ""
+
+#: includes/vc-elements/team.php:70
+msgid "Profile Link"
+msgstr ""
+
+#: includes/vc-elements/team.php:76
+msgid "Facebook"
+msgstr ""
+
+#: includes/vc-elements/team.php:82
+msgid "Twitter"
+msgstr ""
+
+#: includes/vc-elements/team.php:88
+msgid "Google+"
+msgstr ""
+
+#: includes/vc-elements/team.php:94
+msgid "Linkedin"
+msgstr ""
+
+#: includes/vc-elements/team.php:100
+msgid "Instagram"
+msgstr ""
+
+#: includes/vc-elements/testimonial-container.php:31
+msgid "Testimonial Carousel"
+msgstr ""
+
+#: includes/vc-elements/testimonial-container.php:32
+msgid "Testimonial Container"
+msgstr ""
+
+#: includes/vc-elements/testimonial-container.php:44
+msgid "Slide number"
+msgstr ""
+
+#: includes/vc-elements/testimonial.php:26
+msgid "Testimonial"
+msgstr ""
+
+#: includes/vc-elements/testimonial.php:39
+msgid "Please prepare your image size because bigger images inappropriate."
+msgstr ""
+
+#: includes/vc-elements/testimonial.php:57 tpl-folio-add.php:40
+msgid "Content"
+msgstr ""
+
+#: includes/widgets/address_widget.php:4
+msgid "Address Widget"
+msgstr ""
+
+#: includes/widgets/address_widget.php:12
+#: includes/widgets/address_widget.php:47
+msgid "Contact Info"
+msgstr ""
+
+#: includes/widgets/address_widget.php:13
+#: includes/widgets/address_widget.php:48
+msgid "NRRnetwork Worldwide Foundation 325/18 North 38th Str, Melbourne, VIC."
+msgstr ""
+
+#: includes/widgets/address_widget.php:55
+#: includes/widgets/popular_posts_widget.php:75
+#: includes/widgets/post_slider_widget.php:89
+#: includes/widgets/recent_works_widget.php:70
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/address_widget.php:59
+msgid "address:"
+msgstr ""
+
+#: includes/widgets/address_widget.php:63
+msgid "phone:"
+msgstr ""
+
+#: includes/widgets/address_widget.php:67
+msgid "email:"
+msgstr ""
+
+#: includes/widgets/address_widget.php:71
+msgid "website:"
+msgstr ""
+
+#: includes/widgets/popular_posts_widget.php:4
+msgid "Popular Posts."
+msgstr ""
+
+#: includes/widgets/popular_posts_widget.php:80
+#: includes/widgets/post_slider_widget.php:94
+#: includes/widgets/recent_works_widget.php:75
+msgid "Number of posts to show"
+msgstr ""
+
+#: includes/widgets/popular_posts_widget.php:84
+#: includes/widgets/post_slider_widget.php:98
+#: includes/widgets/recent_works_widget.php:79
+msgid "Exclude category ID (optional)"
+msgstr ""
+
+#: includes/widgets/popular_posts_widget.php:85
+#: includes/widgets/post_slider_widget.php:99
+#: includes/widgets/recent_works_widget.php:80
+msgid "You can include multiple categories with comma separation."
+msgstr ""
+
+#: includes/widgets/popular_posts_widget.php:89
+#: includes/widgets/post_slider_widget.php:103
+#: includes/widgets/recent_works_widget.php:84
+msgid "Exclude post ID (optional)"
+msgstr ""
+
+#: includes/widgets/popular_posts_widget.php:90
+#: includes/widgets/post_slider_widget.php:104
+#: includes/widgets/recent_works_widget.php:85
+msgid "You can include multiple posts with comma separation."
+msgstr ""
+
+#: includes/widgets/popular_posts_widget.php:94
+#: includes/widgets/post_slider_widget.php:108
+#: includes/widgets/recent_works_widget.php:89
+msgid "Post ID (optional)"
+msgstr ""
+
+#: includes/widgets/popular_posts_widget.php:97
+#: includes/widgets/post_slider_widget.php:111
+#: includes/widgets/recent_works_widget.php:92
+msgid "Select Type:"
+msgstr ""
+
+#: includes/widgets/post_slider_widget.php:4
+msgid "Posts show in carousel."
+msgstr ""
+
+#: includes/widgets/recent_works_widget.php:4
+msgid "Recent Works."
+msgstr ""
+
+#: includes/widgets/social_links_widget.php:4
+msgid "Displays your social profile."
+msgstr ""
+
+#: includes/widgets/social_links_widget.php:54
+msgid "Widget Title:"
+msgstr ""
+
+#: page-activity-p.php:63 page-activity.php:71 searchform.php:2 woo-shop.php:49
+msgid "Enter keyword"
+msgstr ""
+
+#: page-activity-p.php:72 page-activity-p.php:76 page-activity.php:84
+#: woo-shop.php:63
+msgid "People"
+msgstr ""
+
+#: page-activity-p.php:81 page-activity.php:89 woo-shop.php:68
+msgid "All Creative Categories"
+msgstr ""
+
+#: page-activity-p.php:84 page-activity.php:92 woo-shop.php:71
+msgid "All Categories"
+msgstr ""
+
+#: page-activity-p.php:95 page-activity-p.php:98 page-activity.php:103
+#: page-activity.php:106 woo-shop.php:82 woo-shop.php:85
+msgid "Most Recent"
+msgstr ""
+
+#: page-activity-p.php:99 page-activity.php:107 woo-shop.php:86
+msgid "Featured"
+msgstr ""
+
+#: page-activity-p.php:100 page-activity.php:108 woo-shop.php:87
+msgid "Most Appreciated"
+msgstr ""
+
+#: page-activity-p.php:101 page-activity.php:109 woo-shop.php:88
+msgid "Most Viewed"
+msgstr ""
+
+#: page-activity-p.php:102 page-activity.php:110 woo-shop.php:89
+msgid "Most Discussed"
+msgstr ""
+
+#: page-activity-p.php:107 page-activity-p.php:110 page-activity.php:115
+#: page-activity.php:118 woo-shop.php:94 woo-shop.php:97
+msgid "Worldwide"
+msgstr ""
+
+#: page-activity-p.php:138 page-activity.php:228 woo-shop.php:209
+msgid "Popular Categories"
+msgstr ""
+
+#: page-activity-p.php:158 page-activity.php:246 woo-shop.php:228
+msgid "Popular Tags"
+msgstr ""
+
+#: sidebar-page.php:10 sidebar.php:16
+msgid "Please add your widgets."
+msgstr ""
+
+#: single-no-sidebar.php:49 single-portfolio.php:46 single-sidebar.php:57
+msgid "Tags"
+msgstr ""
+
+#: single-no-sidebar.php:57 single-sidebar.php:65
+msgid "Share"
+msgstr ""
+
+#: single-portfolio.php:138 woo-single.php:109
+msgid "MESSAGE"
+msgstr ""
+
+#: single-portfolio.php:147 tpl-author.php:80 woo-single.php:118
+msgid "Send Message To"
+msgstr ""
+
+#: single-portfolio.php:152 tpl-author.php:85 woo-single.php:123
+msgid "send message"
+msgstr ""
+
+#: single-portfolio.php:164 tpl-author.php:59 tpl-author.php:107
+#: woo-single.php:135
+msgid "share"
+msgstr ""
+
+#: single-portfolio.php:179 woo-single.php:150
+msgid "ADD TO COLLECTION"
+msgstr ""
+
+#: single-portfolio.php:181 woo-single.php:152
+msgid "Recent Works"
+msgstr ""
+
+#: single-sidebar.php:22
+msgid "by "
+msgstr ""
+
+#: tpl-author-edit.php:24 tpl-messages.php:45
+msgid "back to profile"
+msgstr ""
+
+#: tpl-author-edit.php:27
+msgid "Choose Category"
+msgstr ""
+
+#: tpl-author-edit.php:30 tpl-author-edit.php:49
+msgid "Basic Information"
+msgstr ""
+
+#: tpl-author-edit.php:31 tpl-author-edit.php:123
+msgid "Change Password"
+msgstr ""
+
+#: tpl-author-edit.php:32 tpl-author-edit.php:149
+msgid "On The Web"
+msgstr ""
+
+#: tpl-author-edit.php:33 tpl-author-edit.php:212 tpl-author.php:182
+msgid "About Me"
+msgstr ""
+
+#: tpl-author-edit.php:42
+msgid "save profile"
+msgstr ""
+
+#: tpl-author-edit.php:54
+msgid "Edit Image"
+msgstr ""
+
+#: tpl-author-edit.php:77
+msgid "Occupation"
+msgstr ""
+
+#: tpl-author-edit.php:78
+msgid "UI/UX, Web Design, Art Direction"
+msgstr ""
+
+#: tpl-author-edit.php:83 tpl-author-edit.php:84
+msgid "Company"
+msgstr ""
+
+#: tpl-author-edit.php:106
+msgid "City"
+msgstr ""
+
+#: tpl-author-edit.php:107
+msgid "City name"
+msgstr ""
+
+#: tpl-author-edit.php:112
+msgid "Website URL"
+msgstr ""
+
+#: tpl-author-edit.php:135
+msgid "Repeat Password"
+msgstr ""
+
+#: tpl-author-edit.php:140
+msgid "If you don't wanna change password, leave blank password field."
+msgstr ""
+
+#: tpl-author-edit.php:254
+msgid "add sections"
+msgstr ""
+
+#: tpl-author-header.php:19
+msgid "Your Notification"
+msgstr ""
+
+#: tpl-author-header.php:32
+msgid "Start following you"
+msgstr ""
+
+#: tpl-author-header.php:59
+msgid "Your Messages"
+msgstr ""
+
+#: tpl-author-header.php:62 tpl-messages.php:46
+msgid "compose"
+msgstr ""
+
+#: tpl-author-header.php:63
+msgid "View all messages"
+msgstr ""
+
+#: tpl-author-header.php:106
+msgid "Hi"
+msgstr ""
+
+#: tpl-author-header.php:108
+msgid "My Portfolio"
+msgstr ""
+
+#: tpl-author-header.php:111
+msgid "Account Settings"
+msgstr ""
+
+#: tpl-author-header.php:112
+msgid "Logout"
+msgstr ""
+
+#: tpl-author.php:45 tpl-folio-add.php:126 tpl-folio-add.php:141
+#: tpl-folio-add.php:171
+msgid "Edit"
+msgstr ""
+
+#: tpl-author.php:55
+msgid "Follow"
+msgstr ""
+
+#: tpl-author.php:73
+msgid "message"
+msgstr ""
+
+#: tpl-author.php:150
+msgid "Projects views"
+msgstr ""
+
+#: tpl-author.php:160 tpl-statistic.php:32 tpl-statistic.php:408
+#: tpl-statistic.php:431
+msgid "Appreciations"
+msgstr ""
+
+#: tpl-author.php:170 tpl-author.php:208
+msgid "Followers"
+msgstr ""
+
+#: tpl-author.php:175 tpl-author.php:209
+msgid "Following"
+msgstr ""
+
+#: tpl-author.php:206
+msgid "Appreciated"
+msgstr ""
+
+#: tpl-author.php:207
+msgid "Collections"
+msgstr ""
+
+#: tpl-author.php:361 tpl-author.php:362
+msgid "Rename"
+msgstr ""
+
+#: tpl-author.php:386
+msgid "view collection"
+msgstr ""
+
+#: tpl-filter.php:2
+msgid "Filter By"
+msgstr ""
+
+#: tpl-filter.php:7
+msgid "Enter School"
+msgstr ""
+
+#: tpl-filter.php:8 tpl-filter.php:15 tpl-filter.php:152
+msgid "Start typing..."
+msgstr ""
+
+#: tpl-folio-add.php:42
+msgid "Settings"
+msgstr ""
+
+#: tpl-folio-add.php:45
+msgid "Previous"
+msgstr ""
+
+#: tpl-folio-add.php:46
+msgid "Next"
+msgstr ""
+
+#: tpl-folio-add.php:47
+msgid "Save"
+msgstr ""
+
+#: tpl-folio-add.php:58
+msgid "Title Project"
+msgstr ""
+
+#: tpl-folio-add.php:60
+msgid "Upload New Image"
+msgstr ""
+
+#: tpl-folio-add.php:63
+msgid "Cancel"
+msgstr ""
+
+#: tpl-folio-add.php:64
+msgid "Continue"
+msgstr ""
+
+#: tpl-folio-add.php:73
+msgid "Creative Fields"
+msgstr ""
+
+#: tpl-folio-add.php:92
+msgid "Project Tags"
+msgstr ""
+
+#: tpl-folio-add.php:107
+msgid "Project Description"
+msgstr ""
+
+#: tpl-folio-add.php:122 tpl-folio-add.php:137 tpl-folio-add.php:167
+msgid "example1, example2..."
+msgstr ""
+
+#: tpl-folio-add.php:156
+msgid "Edit Color"
+msgstr ""
+
+#: tpl-folio-add.php:184
+msgid "Adult Content"
+msgstr ""
+
+#: tpl-folio-add.php:191 tpl-messages.php:33
+msgid "Close"
+msgstr ""
+
+#: tpl-folio-add.php:200
+msgid "ADD MEDIA"
+msgstr ""
+
+#: tpl-folio-add.php:203
+msgid "Upload Image"
+msgstr ""
+
+#: tpl-folio-add.php:204
+msgid "Embed media"
+msgstr ""
+
+#: tpl-folio-add.php:205
+msgid "Add text"
+msgstr ""
+
+#: tpl-folio-add.php:210
+msgid "CUSTOMIZE DESIGN"
+msgstr ""
+
+#: tpl-folio-add.php:213
+msgid "Dividers & Spacing"
+msgstr ""
+
+#: tpl-folio-add.php:218
+msgid "No Divider"
+msgstr ""
+
+#: tpl-folio-add.php:235
+msgid "Spacing"
+msgstr ""
+
+#: tpl-folio-add.php:242
+msgid "Header"
+msgstr ""
+
+#: tpl-folio-add.php:253
+msgid "Background"
+msgstr ""
+
+#: tpl-folio-add.php:259
+msgid "Text"
+msgstr ""
+
+#: tpl-folio-add.php:270
+msgid "Delete Project"
+msgstr ""
+
+#: tpl-folio-add.php:281
+msgid "Portfolio name"
+msgstr ""
+
+#: tpl-folio-add.php:299
+msgid ""
+"Compellingly redefine timely interfaces vis-a-vis proactive web-readiness. "
+"Objectively synthesize impactful markets with client-centric channels. "
+"Proactively target granular meta-services via."
+msgstr ""
+
+#: tpl-folio-add.php:318
+msgid "Add Brand"
+msgstr ""
+
+#: tpl-folio-add.php:321
+msgid "DONE"
+msgstr ""
+
+#: tpl-folio-add.php:328
+msgid "Choose Color"
+msgstr ""
+
+#: tpl-folio-add.php:463
+msgid "Embed Media"
+msgstr ""
+
+#: tpl-folio-add.php:468
+msgid "Embed"
+msgstr ""
+
+#: tpl-messages.php:17
+msgid "You have a message from:"
+msgstr ""
+
+#: tpl-messages.php:34
+msgid "Message Error"
+msgstr ""
+
+#: tpl-messages.php:35
+msgid "Use does not exists"
+msgstr ""
+
+#: tpl-messages.php:51
+msgid "select all"
+msgstr ""
+
+#: tpl-messages.php:54
+msgid "actions"
+msgstr ""
+
+#: tpl-messages.php:95
+msgid "New Message"
+msgstr ""
+
+#: tpl-messages.php:95
+msgid "Conversation"
+msgstr ""
+
+#: tpl-messages.php:101
+msgid "To"
+msgstr ""
+
+#: tpl-messages.php:102
+msgid "Enter user name"
+msgstr ""
+
+#: tpl-messages.php:105 tpl-messages.php:114
+msgid "Your Message"
+msgstr ""
+
+#: tpl-messages.php:108
+msgid "cancel"
+msgstr ""
+
+#: tpl-messages.php:109
+msgid "send"
+msgstr ""
+
+#: tpl-messages.php:117
+msgid "reply"
+msgstr ""
+
+#: tpl-page-title.php:65
+msgid "Category"
+msgstr ""
+
+#: tpl-page-title.php:79
+msgid "Author"
+msgstr ""
+
+#: tpl-statistic.php:29
+msgid "Profile Views"
+msgstr ""
+
+#: tpl-statistic.php:35
+msgid "Projects Comments"
+msgstr ""
+
+#: tpl-statistic.php:38
+msgid "Projects Views"
+msgstr ""
+
+#: tpl-statistic.php:46
+msgid "Weekly Profile Views"
+msgstr ""
+
+#: tpl-statistic.php:49 tpl-statistic.php:83 tpl-statistic.php:117
+#: tpl-statistic.php:152
+msgid "Mon"
+msgstr ""
+
+#: tpl-statistic.php:50 tpl-statistic.php:84 tpl-statistic.php:118
+#: tpl-statistic.php:153
+msgid "Tue"
+msgstr ""
+
+#: tpl-statistic.php:51 tpl-statistic.php:85 tpl-statistic.php:119
+#: tpl-statistic.php:154
+msgid "Wed"
+msgstr ""
+
+#: tpl-statistic.php:52 tpl-statistic.php:86 tpl-statistic.php:120
+#: tpl-statistic.php:155
+msgid "Thu"
+msgstr ""
+
+#: tpl-statistic.php:53 tpl-statistic.php:87 tpl-statistic.php:121
+#: tpl-statistic.php:156
+msgid "Fri"
+msgstr ""
+
+#: tpl-statistic.php:54 tpl-statistic.php:88 tpl-statistic.php:122
+#: tpl-statistic.php:157
+msgid "Sat"
+msgstr ""
+
+#: tpl-statistic.php:55 tpl-statistic.php:89 tpl-statistic.php:123
+#: tpl-statistic.php:158
+msgid "Sun"
+msgstr ""
+
+#: tpl-statistic.php:80
+msgid "Weekly Appreciations"
+msgstr ""
+
+#: tpl-statistic.php:114
+msgid "Weekly Comments"
+msgstr ""
+
+#: tpl-statistic.php:149
+msgid "Weekly Project Views"
+msgstr ""
+
+#: tpl-statistic.php:189
+msgid "Receives"
+msgstr ""
+
+#: tpl-statistic.php:190
+msgid "Given"
+msgstr ""
+
+#: tpl-statistic.php:206
+msgid "project views"
+msgstr ""
+
+#: tpl-statistic.php:218 tpl-statistic.php:260
+msgid "project appreciations"
+msgstr ""
+
+#: tpl-statistic.php:230 tpl-statistic.php:296
+msgid "project comments"
+msgstr ""
+
+#: tpl-statistic.php:242 tpl-statistic.php:272 tpl-statistic.php:284
+msgid "profile views"
+msgstr ""
+
+#: tpl-statistic.php:307
+msgid "in all time"
+msgstr ""
+
+#: tpl-statistic.php:307
+msgid "Portfolio All Time Review"
+msgstr ""
+
+#: tpl-statistic.php:314
+msgid "Project"
+msgstr ""
+
+#: tpl-statistic.php:324
+msgid "Appreciated By"
+msgstr ""
+
+#: tpl-statistic.php:443
+msgid "Commentors"
+msgstr ""
+
+#: tpl-statistic.php:465
+msgid "Comments"
+msgstr ""
+
+#: tpl-user-active.php:21
+msgid "User already activated. Please try to log in."
+msgstr ""
+
+#: tpl-user-active.php:27
+msgid "Activation completed successfully. Please log in."
+msgstr ""
+
+#: tpl-user-active.php:32
+msgid "Incorrect token and user."
+msgstr ""
+
+#: tpl-user-active.php:37
+msgid "You are not human. Please try again."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "NRGNetwork"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://demo.nrgthemes.com/projects/nrgnetworkwp/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Social Network WordPress theme that compatible with BuddyPress and perfectly "
+"fit your online portfolio website."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "NRGThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/nrgthemes/"
+msgstr ""

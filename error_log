@@ -1,0 +1,22 @@
+[28-Nov-2017 09:11:50 UTC] PHP Fatal error:  Call to undefined function wp_is_uuid() in /home/lobst8bl/public_html/wp-includes/class-wp-customize-manager.php on line 524
+[28-Nov-2017 09:13:21 UTC] PHP Fatal error:  Call to undefined function wp_is_uuid() in /home/lobst8bl/public_html/wp-includes/class-wp-customize-manager.php on line 524
+[28-Nov-2017 09:13:57 UTC] PHP Fatal error:  Call to undefined function wp_is_uuid() in /home/lobst8bl/public_html/wp-includes/class-wp-customize-manager.php on line 524
+[28-Nov-2017 09:14:18 UTC] PHP Fatal error:  Call to undefined function wp_is_uuid() in /home/lobst8bl/public_html/wp-includes/class-wp-customize-manager.php on line 524
+[28-Nov-2017 09:15:20 UTC] PHP Fatal error:  Call to undefined function wp_is_uuid() in /home/lobst8bl/public_html/wp-includes/class-wp-customize-manager.php on line 524
+[28-Nov-2017 09:49:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/lobst8bl/public_html/wp-includes/functions.php on line 5863
+[29-Nov-2017 06:43:54 UTC] PHP Fatal error:  Out of memory (allocated 33030144) (tried to allocate 3072 bytes) in /home/lobst8bl/public_html/wp-content/plugins/buddypress/bp-activity/bp-activity-template.php on line 899
+[29-Nov-2017 06:44:00 UTC] PHP Fatal error:  Out of memory (allocated 17563648) (tried to allocate 49152 bytes) in /home/lobst8bl/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php on line 611
+[29-Nov-2017 06:44:00 UTC] PHP Fatal error:  Out of memory (allocated 56360960) (tried to allocate 32 bytes) in /home/lobst8bl/public_html/wp-content/themes/nrgnetwork/framework/classes/lib/Less/Parser.php on line 697
+[29-Nov-2017 06:44:00 UTC] PHP Fatal error:  Out of memory (allocated 29097984) (tried to allocate 3072 bytes) in /home/lobst8bl/public_html/wp-includes/class-wp-customize-control.php on line 332
+[29-Nov-2017 06:44:00 UTC] PHP Fatal error:  Out of memory (allocated 43253760) (tried to allocate 3072 bytes) in /home/lobst8bl/public_html/wp-content/plugins/js_composer/include/params/textarea_html/textarea_html.php on line 15
+[29-Nov-2017 06:44:00 UTC] PHP Fatal error:  Out of memory (allocated 11010048) (tried to allocate 8960 bytes) in /home/lobst8bl/public_html/wp-includes/kses.php on line 198
+[29-Nov-2017 06:44:00 UTC] PHP Fatal error:  Out of memory (allocated 25427968) (tried to allocate 3072 bytes) in /home/lobst8bl/public_html/wp-content/plugins/wpdiscuz/utils/class.WpdiscuzOptimizationHelper.php on line 38
+[29-Nov-2017 06:44:00 UTC] PHP Fatal error:  Out of memory (allocated 23330816) (tried to allocate 3200 bytes) in /home/lobst8bl/public_html/wp-content/plugins/js_composer/include/autoload/vc-grid-item-editor.php on line 89
+[29-Nov-2017 06:44:00 UTC] PHP Fatal error:  Out of memory (allocated 19660800) (tried to allocate 12288 bytes) in /home/lobst8bl/public_html/wp-content/plugins/buddypress/bp-core/bp-core-buddybar.php on line 155
+[29-Nov-2017 06:44:00 UTC] PHP Fatal error:  Out of memory (allocated 55050240) (tried to allocate 524288 bytes) in /home/lobst8bl/public_html/wp-content/themes/nrgnetwork/framework/classes/lib/Less/Parser.php on line 2463
+[29-Nov-2017 18:26:39 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/lobst8bl/public_html/wp-content/themes/nrgnetwork/includes/community.php on line 963
+[29-Nov-2017 18:27:08 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/lobst8bl/public_html/wp-content/themes/nrgnetwork/includes/community.php on line 990
+[29-Nov-2017 18:27:13 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/lobst8bl/public_html/wp-content/themes/nrgnetwork/includes/community.php on line 990
+[29-Nov-2017 18:27:24 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/lobst8bl/public_html/wp-content/themes/nrgnetwork/includes/community.php on line 990
+[29-Nov-2017 18:38:58 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/lobst8bl/public_html/wp-content/themes/nrgnetwork/includes/community.php on line 963
+[30-Nov-2017 11:47:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/lobst8bl/public_html/wp-includes/functions.php on line 497

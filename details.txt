@@ -1,0 +1,5 @@
+dbname: lobst8bl_lobstorypsaket
+
+dbusername: lobst8bl_psaket
+
+password: w9A~N&CT(C^_
